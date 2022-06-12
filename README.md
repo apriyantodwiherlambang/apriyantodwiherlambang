@@ -7,7 +7,7 @@
 
 ## Connect with me :
 <div align="center">
-<a href="https://medium.com/@apriyantodwiherlambang" target="_blank"><img align="left" alt="Medium" width="125px" src="https://www.closer.pt/media/1862/medium-logo.png"/></a>
+<a href="https://medium.com/@apriyantodwiherlambang" target="_blank"><img align="left" alt="Medium" width="80px" src="https://www.closer.pt/media/1862/medium-logo.png"/></a>
 
 <a href="https://www.linkedin.com/in/apriyantodwiherlambang" target="_blank"><img alt="LinkedIn" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"/></a>
 </div>
