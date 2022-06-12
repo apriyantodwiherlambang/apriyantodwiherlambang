@@ -24,9 +24,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apriyantodwiherlambang&layout=compact)](https://github.com/apriyantodwiherlambang/github-readme-stats)
 <br>
 
-<a href="https://github.com/apriyantodwiherlambang/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=apriyantodwiherlambang&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/apriyantodwiherlambang/convoychat">
-  <img align="center" src="https://apriyantodwiherlambang-git-main-apriyantodwiherlambang.vercel.app?username=apriyantodwiherlambang&repo=convoychat" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=apriyantodwiherlambang&show_icons=true&count_private=true&hide_border=true" align="left" /> 
