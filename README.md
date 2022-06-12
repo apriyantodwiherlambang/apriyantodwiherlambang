@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋 I'm Apriyanto Dwi Herlambang.</h1>
 <h3 align="center">A passionate Fullstack Website Developer, currently training at PijarCamp.</h3>
 
+- 🌍  I'm based in **Tangerang Selatan.**
 - 🌱 I’m currently learning **Fullstack website developer.**
 - 💬 Ask me about **Javascript, React.js, Express.js and PostgreSQL.**
 - 📫 How to reach me **dwiherlambangapri@gmail.com**
@@ -25,6 +26,10 @@
 <a href="https://www.w3schools.com/css" target="_blank">
   <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 </a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="32" height="32" alt="Javascript"></a>
+
 <br/>
 
 ## Softwares :
