@@ -51,6 +51,10 @@
   <img alt="PostgreSQL" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg">
 </a>
 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img alt="MySQL" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg">
+</a>
+
 <br/>
 
 ## Softwares :
