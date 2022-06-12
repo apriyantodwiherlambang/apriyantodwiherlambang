@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Fullstack Website Developer, currently training at PijarCamp.</h3>
 
 - 🌍  I'm based in **Tangerang Selatan.**
-- 🌱 I’m currently learning **Fullstack website developer.**
-- 💬 Ask me about **Javascript, React.js, Express.js and PostgreSQL.**
-- 📫 How to reach me **dwiherlambangapri@gmail.com**
+- 🌱  I’m currently learning **Fullstack website developer.**
+- 💬  Ask me about **Javascript, React.js, Express.js and PostgreSQL.**
+- 📫  How to reach me **dwiherlambangapri@gmail.com**
 
 ## Connect with me :
 <div align="left">
