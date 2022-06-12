@@ -73,7 +73,7 @@
 </a>
 
 <a href="https://www.postman.com" target="_blank">
-  <img align="left" alt="Postman" width="28" height="25" src="https://cdn.worldvectorlogo.com/logos/postman.svg">
+  <img align="left" alt="Postman" width="28" height="25" src="https://www.svgrepo.com/show/354202/postman-icon.svg">
 </a>
 <br>
 
