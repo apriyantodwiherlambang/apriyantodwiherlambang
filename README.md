@@ -6,7 +6,9 @@
 - 📫 How to reach me **dwiherlambangapri@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/apriyantodwiherlambang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apriyantodwiherlambang" height="26" width="26" /></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/apriyantodwiherlambang/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ### Languages and Tools:
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
