@@ -49,6 +49,16 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
   <img alt="PostgreSQL" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg">
 </a>
+
+
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank" rel="noreferrer">
+  <img align="left" alt="C#" width="32" height="32" src="https://gunnarpeipman.com/csharp-top-level-programs">
+</a>
+
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img align="left" alt="ExpressJS" width="90" src="https://initialcommit.com/img/initialcommit/beginners-guide-to-using-express-js-and-node-js-framework.png">
+</a>
+
 <br>
 
 ## Softwares :
