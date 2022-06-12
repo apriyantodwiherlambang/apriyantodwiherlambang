@@ -8,7 +8,7 @@
 <h3>Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/apriyantodwiherlambang"><img alt="LinkedIn" title="LinkedIn" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"/></a>
-  <a href="https://medium.com/@apriyantodwiherlambang"><img alt="Medium" title="Medium" width="110px" src="https://www.closer.pt/media/1862/medium-logo.png"/></a>
+  <a href="https://medium.com/@apriyantodwiherlambang"><img alt="Medium" title="Medium" width="120px" src="https://www.closer.pt/media/1862/medium-logo.png"/></a>
 </p>
 
 ## Languages and Tools:
