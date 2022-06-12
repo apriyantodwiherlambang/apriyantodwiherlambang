@@ -66,7 +66,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=apriyantodwiherlambang&show_icons=true&count_private=true&hide_border=true" align="left"> 
 <br>
-<br>
 
 ## 🔥 My contribution streak :
 <p>
