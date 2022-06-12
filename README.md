@@ -12,7 +12,7 @@
 </a>
 
 <a href="https://medium.com/@apriyantodwiherlambang" target="_blank">
-  <img align="left" alt="Medium" width="125px" src="https://www.closer.pt/media/1862/medium-logo.png"/>
+  <img align="left" alt="Medium" width="85px" src="https://www.closer.pt/media/1862/medium-logo.png"/>
 </a>
 </div>
 <br>
