@@ -31,5 +31,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=apriyantodwiherlambang&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/apriyantodwiherlambang/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=apriyantodwiherlambang&repo=convoychat" />
+  <img align="center" src="https://apriyantodwiherlambang-git-main-apriyantodwiherlambang.vercel.app?username=apriyantodwiherlambang&repo=convoychat" />
 </a>
