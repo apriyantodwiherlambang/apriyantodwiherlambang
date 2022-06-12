@@ -64,7 +64,8 @@
 ## My GitHub Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apriyantodwiherlambang&layout=compact)](https://github.com/apriyantodwiherlambang/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=apriyantodwiherlambang&show_icons=true&count_private=true&hide_border=true" align="left" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=apriyantodwiherlambang&show_icons=true&count_private=true&hide_border=true" align="left"> 
+<br>
 <br>
 
 ## 🔥 My contribution streak
