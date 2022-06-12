@@ -71,6 +71,10 @@
 <a href="https://www.apachefriends.org" target="_blank">
   <img align="left" alt="XAMPP" width="28px" src="https://seeklogo.com/images/X/xampp-logo-1C1A9E3689-seeklogo.com.png">
 </a>
+
+<a href="https://www.postman.com" target="_blank">
+  <img align="left" alt="Postman" width="28px" src="https://cdn.worldvectorlogo.com/logos/postman.svg">
+</a>
 <br>
 
 ## My contribution streak :
