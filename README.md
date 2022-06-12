@@ -52,7 +52,7 @@
 
 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank" rel="noreferrer">
-  <img align="left" alt="C#" width="32" height="32" src="https://static.gunnarpeipman.com/wp-content/uploads/2009/10/csharp-featured.png.webp">
+  <img align="left" alt="C#" width="65" height="32" src="https://static.gunnarpeipman.com/wp-content/uploads/2009/10/csharp-featured.png.webp">
 </a>
 
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
