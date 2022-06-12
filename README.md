@@ -16,7 +16,6 @@
   <img align="left" alt="Medium" width="94px" src="https://www.closer.pt/media/1862/medium-logo.png"/>
 </a>
 </div>
-<br>
 
 ## Languages and Tools :
 <a href="https://www.w3schools.com/html" target="_blank">
