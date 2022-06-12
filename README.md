@@ -61,13 +61,15 @@
 </a>
 <br>
 
-## My GitHub Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apriyantodwiherlambang&layout=compact)](https://github.com/apriyantodwiherlambang/github-readme-stats)
-
-<img src="https://github-readme-stats.vercel.app/api?username=apriyantodwiherlambang&show_icons=true&count_private=true&hide_border=true" align="left"> 
-<br>
 
 ## 🔥 My contribution streak :
 <a href="https://github.com/apriyantodwiherlambang/github-readme-streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=apriyantodwiherlambang#version3">
 </a>
+<br>
+
+## My GitHub Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apriyantodwiherlambang&layout=compact)](https://github.com/apriyantodwiherlambang/github-readme-stats)
+
+<img src="https://github-readme-stats.vercel.app/api?username=apriyantodwiherlambang&show_icons=true&count_private=true&hide_border=true" align="left"> 
+<br>
