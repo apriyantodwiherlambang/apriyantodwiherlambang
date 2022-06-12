@@ -28,11 +28,12 @@
 </a>
 
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="32" height="32" alt="Bootstrap" />
+  <img align="left" alt="Bootstrap" width="32" height="32"img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg">
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="32" height="32" alt="Javascript"></a>
+  <img img align="left" alt="Javascript" width="32" height="32"img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg">
+</a>
 
 <br/>
 
