@@ -42,10 +42,6 @@
   <img align="left" alt="NodeJS" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg">
 </a>
 
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-  <img align="left" alt="ExpressJS" width="90" src="https://initialcommit.com/img/initialcommit/beginners-guide-to-using-express-js-and-node-js-framework.png">
-</a>
-
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img alt="MySQL" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg">
 </a>
@@ -53,6 +49,11 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
   <img alt="PostgreSQL" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg">
 </a>
+
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img align="left" alt="ExpressJS" width="90" src="https://initialcommit.com/img/initialcommit/beginners-guide-to-using-express-js-and-node-js-framework.png">
+</a>
+
 <br>
 
 ## Softwares :
