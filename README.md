@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/apriyantodwiherlambang/"><img alt="LinkedIn" title="LinkedIn" src="[https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)"/></a>
+  <a href="https://www.linkedin.com/in/apriyantodwiherlambang/"><img alt="LinkedIn" title="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"/></a>
 </p>
 
 ### Languages and Tools:
