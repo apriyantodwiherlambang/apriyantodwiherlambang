@@ -42,6 +42,10 @@
   <img align="left" alt="NodeJS" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg">
 </a>
 
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img align="left" alt="ExpressJS" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg">
+</a>
+
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img align="left" alt="MySQL" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg">
 </a>
@@ -53,11 +57,6 @@
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank" rel="noreferrer">
   <img align="left" alt="C#" width="65" height="32" src="https://static.gunnarpeipman.com/wp-content/uploads/2009/10/csharp-featured.png.webp">
 </a>
-
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-  <img align="left" alt="ExpressJS" width="90" height="32" src="https://initialcommit.com/img/initialcommit/beginners-guide-to-using-express-js-and-node-js-framework.png">
-</a>
-
 <br>
 
 ## Softwares :
