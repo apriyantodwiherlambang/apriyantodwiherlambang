@@ -62,7 +62,7 @@
 <br>
 
 
-## 🔥 My contribution streak :
+## My contribution streak :
 <a href="https://github.com/apriyantodwiherlambang/github-readme-streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=apriyantodwiherlambang#version3">
 </a>
