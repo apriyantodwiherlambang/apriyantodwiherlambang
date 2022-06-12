@@ -44,7 +44,7 @@
 </a>
 
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-  <img align="left" alt="ExpressJS" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg">
+  <img align="left" alt="ExpressJS" width="32" height="32" src="https://initialcommit.com/img/initialcommit/beginners-guide-to-using-express-js-and-node-js-framework.png">
 </a>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
