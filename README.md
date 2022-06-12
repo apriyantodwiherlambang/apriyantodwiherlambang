@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Apriyanto Dwi Herlambang</h1>
+<h1 align="center">Hi 👋 I'm Apriyanto Dwi Herlambang.</h1>
 <h3 align="center">A passionate Fullstack Website Developer, currently training at PijarCamp.</h3>
 
 - 🌱 I’m currently learning **Fullstack website developer.**
