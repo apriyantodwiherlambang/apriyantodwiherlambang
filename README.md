@@ -92,11 +92,32 @@
 
 <table>
     <tr>
-        <td align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=vaibhavvikas&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=vaibhavvikas&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-        <td rowspan="2" align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavvikas&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavvikas&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td align="center">
+          <a href="https://github.com/apriyantodwiherlambang#gh-light-mode-only">
+            <img src="https://github-readme-stats.vercel.app/api?username=apriyantodwiherlambang&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/>
+          </a>
+          <a href="https://github.com/apriyantodwiherlambang#gh-dark-mode-only">
+            <img src="https://github-readme-stats.vercel.app/api?username=apriyantodwiherlambang&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/>
+          </a>
+      </td>
+        <td rowspan="2" align="center">
+          <a href="https://github.com/apriyantodwiherlambang#gh-light-mode-only">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apriyantodwiherlambang&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/>
+          </a>
+          <a href="https://github.com/apriyantodwiherlambang#gh-dark-mode-only">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apriyantodwiherlambang&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/>
+          </a>
+      </td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavvikas&theme=default"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavvikas&theme=tokyonight"/></a></td>
+        <td align="center">
+          <a href="https://github.com/apriyantodwiherlambang#gh-light-mode-only">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=apriyantodwiherlambang&theme=default"/>
+          </a>
+          <a href="https://github.com/apriyantodwiherlambang#gh-dark-mode-only">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=apriyantodwiherlambang&theme=tokyonight"/>
+          </a>
+      </td>
     </tr>
 </table>
 
