@@ -20,6 +20,7 @@
   <img align="left" alt="Medium" width="80px" height="32" src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png"/>
 </a>
 </div>
+<br>
 
 ## Languages and Tools :
 <a href="https://www.w3schools.com/html" target="_blank">
