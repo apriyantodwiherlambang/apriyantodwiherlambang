@@ -13,11 +13,11 @@
 ## Connect with me :
 <div align="left">
 <a href="https://www.linkedin.com/in/apriyantodwiherlambang" target="_blank">
-  <img alt="LinkedIn" width="78px" height="32" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"/>
+  <img alt="LinkedIn" width="80px" height="32" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"/>
 </a>
 
 <a href="https://medium.com/@apriyantodwiherlambang" target="_blank">
-  <img align="left" alt="Medium" width="85px" height="32" src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png"/>
+  <img align="left" alt="Medium" width="80px" height="32" src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png"/>
 </a>
 </div>
 
