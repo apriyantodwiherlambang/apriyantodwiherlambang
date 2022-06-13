@@ -13,7 +13,7 @@
 ## Connect with me :
 <div align="left">
 <a href="https://www.linkedin.com/in/apriyantodwiherlambang" target="_blank">
-  <img alt="LinkedIn" width="80px" height="32" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"/>
+  <img align="left" alt="LinkedIn" width="80px" height="32" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"/>
 </a>
 
 <a href="https://medium.com/@apriyantodwiherlambang" target="_blank">
