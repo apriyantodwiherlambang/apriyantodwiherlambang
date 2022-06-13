@@ -100,7 +100,7 @@
       </td>
         <td rowspan="2" align="center">
           <a href="https://github.com/apriyantodwiherlambang#gh-light-mode-only">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apriyantodwiherlambang&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apriyantodwiherlambang&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/>
           </a>
       </td>
     </tr>
@@ -117,4 +117,3 @@
 <div align="center">
 <img width="843em" src="https://activity-graph.herokuapp.com/graph?username=apriyantodwiherlambang&point=1877f2&line=58a6ff&hide_title=true&bg_color=ffffff&color=24292e">
 </div>
-<br>
