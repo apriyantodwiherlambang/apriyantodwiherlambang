@@ -102,7 +102,7 @@
       
         <td rowspan="2" align="center">
           <a href="https://github.com/apriyantodwiherlambang">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apriyantodwiherlambang&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apriyantodwiherlambang&theme=default" alt="My GitHub Stats"/>
           </a>
       </td>
     </tr>
