@@ -6,7 +6,7 @@
 -  🌱  I’m currently learning **Fullstack website developer.**
 -  💬  Ask me about **Javascript, React.js, Express.js and PostgreSQL.**
 -  📫  How to reach me **dwiherlambangapri@gmail.com**
--  ⚡  Fun fact: **I'm ailurophile (cat lover)**
+-  ⚡  Fun fact: **I'm ailurophile (Cat Lover)**
 
 ## Connect with me :
 <div align="left">
@@ -95,7 +95,13 @@
 <br>
 
 ## My GitHub Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apriyantodwiherlambang&layout=compact)](https://github.com/apriyantodwiherlambang/github-readme-stats)
+<!-- see https://github.com/anuraghazra/github-readme-stats -->
+<div align="center">
+  <img height="171.5em" src="https://github-readme-stats.vercel.app/api?username=apriyantodwiherlambang&show_icons=true&count_private=true&custom_title=GitHub Stats&include_all_commits=true&hide_border=true&hide_title=true&border_radius=0" alt="Github Stats">
+  <img height="171.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apriyantodwiherlambang&layout=compact&langs_count=10&hide_border=true&hide_title=true&border_radius=0" alt="Top Langs">
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=apriyantodwiherlambang&show_icons=true&count_private=true&hide_border=true" align="left"> 
-<br>
+<!-- see https://ashutosh00710.github.io/github-readme-activity-graph/ -->
+<div align="center">
+<img width="843em" src="https://activity-graph.herokuapp.com/graph?username=apriyantodwiherlambang&point=1877f2&line=58a6ff&hide_title=true&bg_color=ffffff&color=24292e">
+</div>
