@@ -88,7 +88,7 @@
 </a>
 <br>
 
-## My GitHub Stats
+## My GitHub Stats.
 
 <!-- see https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
