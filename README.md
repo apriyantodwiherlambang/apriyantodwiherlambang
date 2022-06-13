@@ -21,7 +21,6 @@
 </a>
 </div>
 <br>
-<br>
 
 ## Languages and Tools :
 <a href="https://www.w3schools.com/html" target="_blank">
