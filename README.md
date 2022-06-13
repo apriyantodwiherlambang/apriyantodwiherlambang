@@ -88,16 +88,17 @@
 </a>
 <br>
 
-## My GitHub Stats :
+### 🌱 What I've done
+
 <!-- see https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
-  <img height="171.5em" src="https://github-readme-stats.vercel.app/api?username=apriyantodwiherlambang&show_icons=true&count_private=true&custom_title=GitHub Stats&include_all_commits=true&hide_border=true&hide_title=true&border_radius=0" alt="Github Stats">
-  <img height="171.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apriyantodwiherlambang&layout=compact&langs_count=10&hide_border=true&hide_title=true&border_radius=0" alt="Top Langs">
+  <img height="171.5em" src="https://github-readme-stats.vercel.app/api?username=ntaraujo&show_icons=true&count_private=true&custom_title=GitHub Stats&include_all_commits=true&hide_border=true&hide_title=true&border_radius=0" alt="Github Stats">
+  <img height="171.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntaraujo&layout=compact&langs_count=10&hide_border=true&hide_title=true&border_radius=0" alt="Top Langs">
 </div>
 
 <!-- see https://ashutosh00710.github.io/github-readme-activity-graph/ -->
 <div align="center">
-<img width="843em" src="https://activity-graph.herokuapp.com/graph?username=apriyantodwiherlambang&point=1877f2&line=58a6ff&hide_title=true&bg_color=ffffff&color=24292e">
+<img width="843em" src="https://activity-graph.herokuapp.com/graph?username=ntaraujo&point=1877f2&line=58a6ff&hide_title=true&bg_color=ffffff&color=24292e">
 </div>
 <br>
 
