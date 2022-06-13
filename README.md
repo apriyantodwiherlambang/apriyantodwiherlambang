@@ -43,7 +43,7 @@
 </a>
 
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-  <img align="left" alt="ExpressJS" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg">
+  <img align="left" alt="ExpressJS" width="32" height="32" src="https://cdn.buttercms.com/2q5r816LTo2uE9j7Ntic">
 </a>
 
 <a href="https://reactjs.org" target="_blank" rel="noreferrer">
