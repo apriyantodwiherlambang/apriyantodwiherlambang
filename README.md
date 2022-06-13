@@ -98,9 +98,6 @@
           <a href="https://github.com/apriyantodwiherlambang#gh-light-mode-only">
             <img src="https://github-readme-stats.vercel.app/api?username=apriyantodwiherlambang&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/>
           </a>
-          <a href="https://github.com/apriyantodwiherlambang#gh-light-mode-only">
-            <img src="https://github-readme-stats.vercel.app/api?username=apriyantodwiherlambang&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/>
-          </a>
       </td>
         <td rowspan="2" align="center">
           <a href="https://github.com/apriyantodwiherlambang#gh-light-mode-only">
