@@ -91,7 +91,7 @@
 ## My contribution streak :
 <div align="center">
 <a href="https://github.com/apriyantodwiherlambang/github-readme-streak-stats">
-  <img height="125px" src="https://github-readme-streak-stats.herokuapp.com/?user=apriyantodwiherlambang#version3">
+  <img height="145px" src="https://github-readme-streak-stats.herokuapp.com/?user=apriyantodwiherlambang#version3">
 </a>
 </div>
 <br>
