@@ -89,9 +89,11 @@
 <br>
 
 ## My contribution streak :
+<div align="center">
 <a href="https://github.com/apriyantodwiherlambang/github-readme-streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apriyantodwiherlambang#version3">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apriyantodwiherlambang#version3">
 </a>
+</div>
 <br>
 
 ## My GitHub Stats :
