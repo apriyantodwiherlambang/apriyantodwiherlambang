@@ -17,7 +17,7 @@
 </a>
 
 <a href="https://medium.com/@apriyantodwiherlambang" target="_blank">
-  <img align="left" alt="Medium" width="94px" src="https://seekvectorlogo.com/wp-content/uploads/2021/12/medium-vector-logo-2021.png"/>
+  <img align="left" alt="Medium" width="78px" src="https://seekvectorlogo.com/wp-content/uploads/2021/12/medium-vector-logo-2021.png"/>
 </a>
 </div>
 
