@@ -88,7 +88,7 @@
 </a>
 <br>
 
-### 🌱 What I've done
+## My GitHub Stats
 
 <!-- see https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
