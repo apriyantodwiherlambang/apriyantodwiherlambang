@@ -90,14 +90,14 @@
 
 ## My contribution streak :
 <a href="https://github.com/apriyantodwiherlambang/github-readme-streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apriyantodwiherlambang#version3">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apriyantodwiherlambang#version3">
 </a>
 <br>
 
 ## My GitHub Stats :
 <!-- see https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=apriyantodwiherlambang&show_icons=true&count_private=true&custom_title=GitHub Stats&include_all_commits=true&hide_border=true&hide_title=true&border_radius=0" alt="Github Stats">
+  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=apriyantodwiherlambang&show_icons=true&count_private=true&custom_title=GitHub Stats&include_all_commits=true&hide_border=true&hide_title=true&border_radius=0" alt="Github Stats">
   <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apriyantodwiherlambang&layout=compact&langs_count=10&hide_border=true&hide_title=true&border_radius=0" alt="Top Langs">
 </div>
 
