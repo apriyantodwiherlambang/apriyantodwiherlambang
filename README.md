@@ -1,7 +1,6 @@
-<div align="center">
+## 
 <h1>Hi 👋 I'm Apriyanto Dwi Herlambang.</h1>
 <h3>A passionate Fullstack Website Developer, currently training at PijarCamp.</h3>
-</div>
 
 ## About Me :
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="175">
