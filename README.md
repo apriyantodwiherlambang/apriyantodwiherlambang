@@ -99,7 +99,7 @@
 ## My GitHub Stats :
 <!-- see https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
-  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=apriyantodwiherlambang&show_icons=true&count_private=true&custom_title=GitHub Stats&include_all_commits=true&hide_border=true&hide_title=true&border_radius=0" alt="Github Stats">
+  <img height="125px" src="https://github-readme-stats.vercel.app/api?username=apriyantodwiherlambang&show_icons=true&count_private=true&custom_title=GitHub Stats&include_all_commits=true&hide_border=true&hide_title=true&border_radius=0" alt="Github Stats">
   <img height="115px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apriyantodwiherlambang&layout=compact&langs_count=10&hide_border=true&hide_title=true&border_radius=0" alt="Top Langs">
 </div>
 
