@@ -106,9 +106,6 @@
           <a href="https://github.com/apriyantodwiherlambang#gh-light-mode-only">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apriyantodwiherlambang&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/>
           </a>
-          <a href="https://github.com/apriyantodwiherlambang#gh-dark-mode-only">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apriyantodwiherlambang&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/>
-          </a>
       </td>
     </tr>
     <tr>
