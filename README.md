@@ -8,6 +8,8 @@
 -  📫  How to reach me **dwiherlambangapri@gmail.com**
 -  ⚡  Fun fact: **I'm ailurophile (Cat Lover)**
 
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
+
 ## Connect with me :
 <div align="left">
 <a href="https://www.linkedin.com/in/apriyantodwiherlambang" target="_blank">
