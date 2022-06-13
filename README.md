@@ -109,9 +109,6 @@
           <a href="https://github.com/apriyantodwiherlambang#gh-light-mode-only">
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=apriyantodwiherlambang&theme=default"/>
           </a>
-          <a href="https://github.com/apriyantodwiherlambang#gh-dark-mode-only">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=apriyantodwiherlambang&theme=tokyonight"/>
-          </a>
       </td>
     </tr>
 </table>
