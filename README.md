@@ -13,17 +13,17 @@
 ## Connect with me :
 <div align="left">
 <a href="https://www.linkedin.com/in/apriyantodwiherlambang" target="_blank">
-  <img alt="LinkedIn" width="78px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"/>
+  <img alt="LinkedIn" width="78px" height="32" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"/>
 </a>
 
 <a href="https://medium.com/@apriyantodwiherlambang" target="_blank">
-  <img align="left" alt="Medium" width="78px" src="https://seekvectorlogo.com/wp-content/uploads/2021/12/medium-vector-logo-2021.png"/>
+  <img align="left" alt="Medium" width="78px" height="32" src="https://seekvectorlogo.com/wp-content/uploads/2021/12/medium-vector-logo-2021.png"/>
 </a>
 </div>
 
 ## Languages and Tools :
 <a href="https://www.w3schools.com/html" target="_blank">
-  <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+  <img align="left" alt="HTML5" width="32px" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 </a>
 
 <a href="https://www.w3schools.com/css" target="_blank">
