@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋 I'm Apriyanto Dwi Herlambang.</h1>
 <h3 align="center">A passionate Fullstack Website Developer, currently training at PijarCamp.</h3>
 
-- 🌍  I'm based in **Tangerang Selatan.**
-- 🌱  I’m currently learning **Fullstack website developer.**
-- 💬  Ask me about **Javascript, React.js, Express.js and PostgreSQL.**
-- 📫  How to reach me **dwiherlambangapri@gmail.com**
+## About Me :
+-  🌍  I'm based in **South Tangerang.**
+-  🌱  I’m currently learning **Fullstack website developer.**
+-  💬  Ask me about **Javascript, React.js, Express.js and PostgreSQL.**
+-  📫  How to reach me **dwiherlambangapri@gmail.com**
+-  ⚡  Fun fact: **I'm ailurophile (cat lover)**
 
 ## Connect with me :
 <div align="left">
