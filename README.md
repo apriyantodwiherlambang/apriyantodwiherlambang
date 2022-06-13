@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Fullstack Website Developer, currently training at PijarCamp.</h3>
 
 ## About Me :
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="200">
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="185">
                                                                                                           
 -  🌍  I'm based in **South Tangerang.**
 -  🌱  I’m currently learning **Fullstack website developer.**
