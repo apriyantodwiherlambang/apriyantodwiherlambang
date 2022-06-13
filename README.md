@@ -89,7 +89,6 @@
   <img align="left" alt="Postman" width="28" height="28" src="https://www.svgrepo.com/show/354202/postman-icon.svg">
 </a>
 <br>
-<br>
 
 ## My GitHub Stats :
 <table>
