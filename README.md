@@ -89,14 +89,16 @@
   <img align="left" alt="Postman" width="28" height="28" src="https://www.svgrepo.com/show/354202/postman-icon.svg">
 </a>
 <br>
+<br>
 
+## My GitHub Stats :
 <table>
     <tr>
         <td align="center">
           <a href="https://github.com/apriyantodwiherlambang#gh-light-mode-only">
             <img src="https://github-readme-stats.vercel.app/api?username=apriyantodwiherlambang&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/>
           </a>
-          <a href="https://github.com/apriyantodwiherlambang#gh-dark-mode-only">
+          <a href="https://github.com/apriyantodwiherlambang#gh-light-mode-only">
             <img src="https://github-readme-stats.vercel.app/api?username=apriyantodwiherlambang&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/>
           </a>
       </td>
@@ -121,24 +123,8 @@
     </tr>
 </table>
 
-
-## My GitHub Stats.
-
-<!-- see https://github.com/anuraghazra/github-readme-stats -->
-<div align="center">
-  <img height="171.5em" src="https://github-readme-stats.vercel.app/api?username=apriyantodwiherlambang&show_icons=true&count_private=true&custom_title=GitHub Stats&include_all_commits=true&hide_border=true&hide_title=true&border_radius=0" alt="Github Stats">
-  <img height="171.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apriyantodwiherlambang&layout=compact&langs_count=10&hide_border=true&hide_title=true&border_radius=0" alt="Top Langs">
-</div>
-
 <!-- see https://ashutosh00710.github.io/github-readme-activity-graph/ -->
 <div align="center">
 <img width="843em" src="https://activity-graph.herokuapp.com/graph?username=apriyantodwiherlambang&point=1877f2&line=58a6ff&hide_title=true&bg_color=ffffff&color=24292e">
 </div>
 <br>
-
-## My contribution streak :
-<div align="center">
-<a href="https://github.com/apriyantodwiherlambang/github-readme-streak-stats">
-  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=apriyantodwiherlambang#version3">
-</a>
-</div>
