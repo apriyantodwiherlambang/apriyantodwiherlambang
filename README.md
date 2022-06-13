@@ -94,13 +94,13 @@
 <table>
     <tr>
         <td align="center">
-          <a href="https://github.com/apriyantodwiherlambang#gh-light-mode-only">
+          <a href="https://github.com/apriyantodwiherlambang">
             <img src="https://github-readme-stats.vercel.app/api?username=apriyantodwiherlambang&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/>
           </a>
       </td>
         <td rowspan="2" align="center">
           <a href="https://github.com/apriyantodwiherlambang">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apriyantodwiherlambang&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apriyantodwiherlambang&show_icons=true&theme=default" alt="My GitHub Stats"/>
           </a>
       </td>
     </tr>
