@@ -22,6 +22,10 @@
 <a href="https://www.github.com/apriyantodwiherlambang" target="_blank" rel="noreferrer">
   <img align="left" alt="GitHub" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg">
 </a>
+
+<a href="https://www.instagram.com/apriyantodwiherlambang" target="_blank" rel="noreferrer">
+  <img align="left" alt="Instagram" width="32" height="32" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg">
+</a>
 <br>
 
 ## Languages and Tools :
