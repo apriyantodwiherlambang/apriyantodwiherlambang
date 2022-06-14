@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋 I'm Apriyanto Dwi Herlambang.</h1>
 <h3 align="center">A passionate Fullstack Website Developer, currently training at PijarCamp.</h3>
 
+<a href="https://www.github.com/apriyantodwiherlambang" target="_blank" rel="noreferrer">
+  <img align="right" alt="GitHub" width="400" src="https://rajacepat.com/assets/frontend/img/androDev.gif">
+</a>
 <h3>About Me</h3>
                                                                                                          
 - 🌍 I'm based in **South Tangerang - Indonesia.**
@@ -8,10 +11,6 @@
 - 💬  Ask me about **Javascript, React.js, Express.js and PostgreSQL.**
 - 📫  How to reach me **dwiherlambangapri@gmail.com**
 - ⚡  Fun fact: **I'm ailurophile (Cat Lover)**
-
-<a href="https://www.github.com/apriyantodwiherlambang" target="_blank" rel="noreferrer">
-  <img align="right" alt="GitHub" width="400" src="https://rajacepat.com/assets/frontend/img/androDev.gif">
-</a>
 <br>
 
 <h3> Find me :</h3>
