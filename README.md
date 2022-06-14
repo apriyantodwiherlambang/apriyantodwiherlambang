@@ -4,7 +4,7 @@
 <h3>About Me</h3>
 
 <a href="https://www.github.com/apriyantodwiherlambang" target="_blank" rel="noreferrer">
-  <img align="right" alt="GitHub" width="175" src="https://rajacepat.com/assets/frontend/img/androDev.gif">
+  <img align="right" alt="GitHub" width="250" src="https://rajacepat.com/assets/frontend/img/androDev.gif">
 </a>
                                                                                                           
 - 🌍 I'm based in **South Tangerang - Indonesia.**
