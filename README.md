@@ -2,8 +2,9 @@
 <h3 align="center">A passionate Fullstack Website Developer, currently training at PijarCamp.</h3>
 
 <a href="https://www.github.com/apriyantodwiherlambang" target="_blank" rel="noreferrer">
-  <img align="right" alt="GitHub" width="400" src="https://rajacepat.com/assets/frontend/img/androDev.gif">
+  <img align="right" alt="GitHub" width="350" src="https://rajacepat.com/assets/frontend/img/androDev.gif">
 </a>
+
 <h3>About Me</h3>
                                                                                                          
 - 🌍 I'm based in **South Tangerang - Indonesia.**
