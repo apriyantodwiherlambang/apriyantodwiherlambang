@@ -9,6 +9,7 @@
 - 💬  Ask me about **Javascript, React.js, Express.js and PostgreSQL.**
 - 📫  How to reach me **dwiherlambangapri@gmail.com**
 - ⚡  Fun fact: **I'm ailurophile (Cat Lover)**
+<br>
 
 <h3> Find me :</h3>
 <a href="https://www.linkedin.com/in/apriyantodwiherlambang" target="_blank">
@@ -38,6 +39,7 @@
 <a href="https://www.youtube.com/channel/UCUpDnmazf0oqTveeASIV9WA" target="_blank" rel="noreferrer">
   <img align="left" alt="Youtube" width="40" height="32" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg">
 </a>
+<br>
 <br>
 
 <h3> Languages and Tools :</h3>
@@ -85,6 +87,7 @@
   <img align="left" alt="C#" width="32" height="32" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">
 </a>
 <br>
+<br>
 
 <h3> Softwares :</h3>
 <a href="https://code.visualstudio.com" target="_blank">
@@ -102,6 +105,7 @@
 <a href="https://www.postman.com" target="_blank">
   <img align="left" alt="Postman" width="28" height="28" src="https://www.svgrepo.com/show/354202/postman-icon.svg">
 </a>
+<br>
 <br>
 
 <h3> My GitHub Stats :</h3>
