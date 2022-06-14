@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Apriyanto Dwi Herlambang.</h1>
 <h3 align="center">A passionate Fullstack Website Developer, currently training at PijarCamp.</h3>
 
-## <h3>About Me</h3>
+<h3>About Me</h3>
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="175">
                                                                                                           
 - 🌍 I'm based in **South Tangerang - Indonesia.**
@@ -10,7 +10,7 @@
 - 📫  How to reach me **dwiherlambangapri@gmail.com**
 - ⚡  Fun fact: **I'm ailurophile (Cat Lover)**
 
-## Connect with me :
+### Connect with me :
 <a href="https://www.linkedin.com/in/apriyantodwiherlambang" target="_blank">
   <img align="left" alt="LinkedIn" width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
 </a>
