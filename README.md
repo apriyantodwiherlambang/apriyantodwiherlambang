@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Fullstack Website Developer, currently training at PijarCamp.</h3>
 
 <h3>About Me</h3>
-<img align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" width="175">
+<img align="right" src="https://icons8.com/illustrations/author/zD2oqC8lLBBA" width="175">
                                                                                                           
 - 🌍 I'm based in **South Tangerang - Indonesia.**
 - 🌱  I’m currently learning **Fullstack website developer.**
