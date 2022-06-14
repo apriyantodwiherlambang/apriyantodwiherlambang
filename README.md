@@ -15,16 +15,16 @@
 <br>
 
 <h3> Find me :</h3>
+<a href="https://www.github.com/apriyantodwiherlambang" target="_blank" rel="noreferrer">
+  <img align="left" alt="GitHub" width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/733/733609.png">
+</a>
+
 <a href="https://www.linkedin.com/in/apriyantodwiherlambang" target="_blank">
-  <img align="left" alt="LinkedIn" width="32" height="32" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1655180389~hmac=f5a00c05a2a72cd8e7094429e5873a7c"/>
+  <img align="left" alt="LinkedIn" width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png"/>
 </a>
 
 <a href="https://medium.com/@apriyantodwiherlambang" target="_blank">
   <img align="left" alt="Medium" width="32" height="32" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670068.png?token=exp=1655180449~hmac=9fdf1c043d842102b9c809a168673328"/>
-</a>
-  
-<a href="https://www.github.com/apriyantodwiherlambang" target="_blank" rel="noreferrer">
-  <img align="left" alt="GitHub" width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/733/733609.png">
 </a>
 
 <a href="https://www.facebook.com/apriyantodwiherlambang" target="_blank" rel="noreferrer">
