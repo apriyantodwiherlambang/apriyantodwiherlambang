@@ -51,11 +51,11 @@
 </a>
 
 <a href="https://www.w3schools.com/css" target="_blank">
-  <img align="left" alt="CSS3" width="32px" height="32" src="https://cdn-icons-png.flaticon.com/512/919/919826.png">
+  <img align="left" alt="CSS3" width="32px" height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png">
 </a>
 
 <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-  <img align="left" alt="PHP" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg">
+  <img align="left" alt="PHP" width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png">
 </a>
 
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
@@ -63,7 +63,7 @@
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img align="left" alt="Javascript" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg">
+  <img align="left" alt="Javascript" width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
 </a>
 
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
