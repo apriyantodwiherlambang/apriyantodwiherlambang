@@ -9,7 +9,7 @@
                                                                                                          
 - 🌍 I'm based in **South Tangerang - Indonesia.**
 - 🌱  I’m currently learning **Fullstack website developer.**
-- 💬  Ask me about **Javascript, Node.js, Express.js, React.js and PostgreSQL.**
+- 💬  Ask me about **Javascript, Express.js, React.js and PostgreSQL.**
 - 📫  How to reach me **dwiherlambangapri@gmail.com**
 - ⚡  Fun fact: **I'm ailurophile (Cat Lover)**
 <br>
