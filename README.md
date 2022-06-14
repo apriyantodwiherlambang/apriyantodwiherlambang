@@ -4,11 +4,11 @@
 ## About Me :
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="175">
                                                                                                           
--  🌍  I'm based in **South Tangerang - Indonesia.**
--  🌱  I’m currently learning **Fullstack website developer.**
--  💬  Ask me about **Javascript, React.js, Express.js and PostgreSQL.**
--  📫  How to reach me **dwiherlambangapri@gmail.com**
--  ⚡  Fun fact: **I'm ailurophile (Cat Lover)**
+-  🌍.  I'm based in **South Tangerang - Indonesia.**
+-  🌱.  I’m currently learning **Fullstack website developer.**
+-  💬.  Ask me about **Javascript, React.js, Express.js and PostgreSQL.**
+-  📫.  How to reach me **dwiherlambangapri@gmail.com**
+-  ⚡.  Fun fact: **I'm ailurophile (Cat Lover)**
 
 ## Connect with me :
 <div align="left">
