@@ -13,7 +13,7 @@
 
 <h3> Find me :</h3>
 <a href="https://www.linkedin.com/in/apriyantodwiherlambang" target="_blank">
-  <img align="left" alt="LinkedIn" width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
+  <img align="left" alt="LinkedIn" width="32" height="32" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1655180389~hmac=f5a00c05a2a72cd8e7094429e5873a7c"/>
 </a>
 
 <a href="https://medium.com/@apriyantodwiherlambang" target="_blank">
