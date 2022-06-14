@@ -37,7 +37,7 @@
 </a>
 
 <a href="https://www.youtube.com/channel/UCUpDnmazf0oqTveeASIV9WA" target="_blank" rel="noreferrer">
-  <img align="left" alt="Youtube" width="40" height="32" src="https://cdn-icons-png.flaticon.com/512/174/174883.png">
+  <img align="left" alt="Youtube" width="52" height="32" src="https://cdn-icons-png.flaticon.com/512/174/174883.png">
 </a>
 <br>
 <br>
