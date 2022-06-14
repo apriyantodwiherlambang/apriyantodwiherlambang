@@ -17,15 +17,15 @@
 </a>
 
 <a href="https://medium.com/@apriyantodwiherlambang" target="_blank">
-  <img align="left" alt="Medium" width="32" height="32" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png"/>
+  <img align="left" alt="Medium" width="32" height="32" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670068.png?token=exp=1655180449~hmac=9fdf1c043d842102b9c809a168673328"/>
 </a>
   
 <a href="https://www.github.com/apriyantodwiherlambang" target="_blank" rel="noreferrer">
-  <img align="left" alt="GitHub" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg">
+  <img align="left" alt="GitHub" width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/733/733609.png">
 </a>
 
 <a href="https://www.facebook.com/apriyantodwiherlambang" target="_blank" rel="noreferrer">
-  <img align="left" alt="Facebook" width="32" height="32" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg">
+  <img align="left" alt="Facebook" width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png">
 </a>
 
 <a href="https://www.instagram.com/apriyantodwiherlambang" target="_blank" rel="noreferrer">
@@ -33,11 +33,11 @@
 </a>
 
 <a href="https://twitter.com/apriyantodwih" target="_blank" rel="noreferrer">
-  <img align="left" alt="Twitter" width="32" height="32" src="https://www.svgrepo.com/show/22159/twitter.svg">
+  <img align="left" alt="Twitter" width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/733/733579.png">
 </a>
 
 <a href="https://www.youtube.com/channel/UCUpDnmazf0oqTveeASIV9WA" target="_blank" rel="noreferrer">
-  <img align="left" alt="Youtube" width="40" height="32" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg">
+  <img align="left" alt="Youtube" width="40" height="32" src="https://cdn-icons-png.flaticon.com/512/174/174883.png">
 </a>
 <br>
 <br>
