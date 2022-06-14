@@ -36,7 +36,7 @@
 </a>
 
 <a href="https://www.youtube.com/channel/UCUpDnmazf0oqTveeASIV9WA" target="_blank" rel="noreferrer">
-  <img align="left" alt="Youtube" width="32" height="32" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg">
+  <img align="left" alt="Youtube" width="40" height="32" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg">
 </a>
 <br>
 
