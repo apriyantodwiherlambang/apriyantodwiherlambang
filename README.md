@@ -32,7 +32,7 @@
 </a>
 
 <a href="https://twitter.com/apriyantodwih" target="_blank" rel="noreferrer">
-  <img align="left" alt="Twitter" width="32" height="32" src="https://www.clipartmax.com/middle/m2i8K9K9N4b1G6H7_twitter-circle-logo-svg/">
+  <img align="left" alt="Twitter" width="32" height="32" src="https://www.svgrepo.com/show/22159/twitter.svg">
 </a>
 <br>
 
