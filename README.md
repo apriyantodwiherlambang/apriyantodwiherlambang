@@ -66,11 +66,6 @@
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank" rel="noreferrer">
   <img align="left" alt="C#" width="32" height="32" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">
 </a>
-
- <a href="https://www.github.com/apriyantodwiherlambang" target="_blank" rel="noreferrer">
-  <img align="left" alt="GitHub" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg">
- </a>
-
 <br>
 
 ## Softwares :
