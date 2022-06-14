@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Fullstack Website Developer, currently training at PijarCamp.</h3>
 
 <h3>About Me</h3>
-<img align="right" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/distant-work-by-freelancer-3575967-2997636.mp4" width="200">
+<a href="https://icons8.com/illustrations/author/zD2oqC8lLBBA">Icons 8</a> from <a href="https://icons8.com/illustrations">Ouch!</a>" width="200">
                                                                                                           
 - 🌍 I'm based in **South Tangerang - Indonesia.**
 - 🌱  I’m currently learning **Fullstack website developer.**
