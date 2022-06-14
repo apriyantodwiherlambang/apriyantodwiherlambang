@@ -28,19 +28,19 @@
 </a>
 
 <a href="https://www.facebook.com/apriyantodwiherlambang" target="_blank" rel="noreferrer">
-  <img align="left" alt="Facebook" width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png">
+  <img align="left" alt="Facebook" width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/1384/1384005.png">
 </a>
 
 <a href="https://www.instagram.com/apriyantodwiherlambang" target="_blank" rel="noreferrer">
-  <img align="left" alt="Instagram" width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/174/174855.png">
+  <img align="left" alt="Instagram" width="32" height="32" src="https://cdn-icons.flaticon.com/png/512/2175/premium/2175198.png?token=exp=1655188143~hmac=1b966b3e631acfde64d0927a6839a439">
 </a>
 
 <a href="https://twitter.com/apriyantodwih" target="_blank" rel="noreferrer">
-  <img align="left" alt="Twitter" width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/733/733579.png">
+  <img align="left" alt="Twitter" width="32" height="32" src="https://cdn-icons.flaticon.com/png/512/3669/premium/3669691.png?token=exp=1655188190~hmac=53a703d225c77c65ebe806040961c56b">
 </a>
 
 <a href="https://www.youtube.com/channel/UCUpDnmazf0oqTveeASIV9WA" target="_blank" rel="noreferrer">
-  <img align="left" alt="Youtube" width="32" height="32" src="https://cdn-icons.flaticon.com/png/512/2875/premium/2875432.png?token=exp=1655180668~hmac=6eac769fc97c84fc8eb1cbed99ab9826">
+  <img align="left" alt="Youtube" width="32" height="32" src="https://cdn-icons.flaticon.com/png/512/4401/premium/4401475.png?token=exp=1655188223~hmac=7874c17ce0625ec49c314a93ad7837e3">
 </a>
 <br>
 <br>
