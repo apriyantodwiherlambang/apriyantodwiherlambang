@@ -10,7 +10,7 @@
 - 📫  How to reach me **dwiherlambangapri@gmail.com**
 - ⚡  Fun fact: **I'm ailurophile (Cat Lover)**
 
-## Find me :
+<h3> Find me :</h3>
 <a href="https://www.linkedin.com/in/apriyantodwiherlambang" target="_blank">
   <img align="left" alt="LinkedIn" width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
 </a>
@@ -36,7 +36,7 @@
 </a>
 <br>
 
-## Languages and Tools :
+<h3> Languages and Tools :</h3>
 <a href="https://www.w3schools.com/html" target="_blank">
   <img align="left" alt="HTML5" width="32px" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 </a>
@@ -82,7 +82,7 @@
 </a>
 <br>
 
-## Softwares :
+<h3> Softwares :</h3>
 <a href="https://code.visualstudio.com" target="_blank">
   <img align="left" alt="Visual Studio Code" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 </a>
@@ -100,7 +100,7 @@
 </a>
 <br>
 
-## My GitHub Stats :
+<h3> My GitHub Stats :</h3>
 <table>
     <tr>
         <td align="center">
