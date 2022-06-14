@@ -10,7 +10,7 @@
 - 📫  How to reach me **dwiherlambangapri@gmail.com**
 - ⚡  Fun fact: **I'm ailurophile (Cat Lover)**
 
-## Connect with me :
+## Find me :
 <a href="https://www.linkedin.com/in/apriyantodwiherlambang" target="_blank">
   <img align="left" alt="LinkedIn" width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
 </a>
