@@ -29,7 +29,7 @@
 </a>
 
 <a href="https://www.instagram.com/apriyantodwiherlambang" target="_blank" rel="noreferrer">
-  <img align="left" alt="Instagram" width="32" height="32" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg">
+  <img align="left" alt="Instagram" width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/174/174855.png">
 </a>
 
 <a href="https://twitter.com/apriyantodwih" target="_blank" rel="noreferrer">
