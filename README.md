@@ -16,8 +16,7 @@
 
 <h3> Find me :</h3>
 <a href="https://replit.com/@apriyantodwiherlambang" target="_blank" rel="noreferrer">
-  <img align="left" alt="Replit" width="32" height="32" src="https://play-lh.googleusercontent.com/HHOYPEvrlSEcy9Ldxf4lVf88m9NdgmNelO--2kDUrxmf_shVUElRTkNIiopJApBAYvwq
-">
+  <img align="left" alt="Replit" width="32" height="32" src="https://replit.com/public/images/sm.png">
 </a>
 
 <a href="https://www.github.com/apriyantodwiherlambang" target="_blank" rel="noreferrer">
