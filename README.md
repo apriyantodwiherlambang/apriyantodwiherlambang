@@ -34,6 +34,10 @@
 <a href="https://twitter.com/apriyantodwih" target="_blank" rel="noreferrer">
   <img align="left" alt="Twitter" width="32" height="32" src="https://www.svgrepo.com/show/22159/twitter.svg">
 </a>
+
+<a href="https://www.youtube.com/channel/UCUpDnmazf0oqTveeASIV9WA" target="_blank" rel="noreferrer">
+  <img align="left" alt="Youtube" width="32" height="32" src="https://www.freepnglogos.com/pics/youtube-logo-png">
+</a>
 <br>
 
 <h3> Languages and Tools :</h3>
