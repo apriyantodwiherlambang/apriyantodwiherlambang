@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋 I'm Apriyanto Dwi Herlambang.</h1>
+<img align="right" width="32" src="https://komarev.com/ghpvc/?username=nanangNSL&&style=flat-square"/>
 <h3 align="center">A passionate Fullstack Website Developer, currently training at PijarCamp.</h3>
 
 <a href="https://www.github.com/apriyantodwiherlambang" target="_blank" rel="noreferrer">
