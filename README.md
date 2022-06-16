@@ -1,5 +1,5 @@
 <a href="https://www.github.com/apriyantodwiherlambang" target="_blank" rel="noreferrer">
-  <img align="right" alt="GitHub" width="95" src="https://komarev.com/ghpvc/?username=apriyantodwiherlambang&style=flat-square&color=lightgrey">
+  <img align="right" alt="GitHub" width="105" src="https://komarev.com/ghpvc/?username=apriyantodwiherlambang&style=flat-square&color=lightgrey">
 </a>
 <h1 align="center">Hi 👋 I'm Apriyanto Dwi Herlambang.</h1>
 
