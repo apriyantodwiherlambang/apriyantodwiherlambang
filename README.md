@@ -1,5 +1,6 @@
-align="right" ![](https://komarev.com/ghpvc/?username=apriyantodwiherlambang&style=flat-square)
+<div = "right">![](https://komarev.com/ghpvc/?username=apriyantodwiherlambang&style=flat-square)
 <h1 align="center">Hi 👋 I'm Apriyanto Dwi Herlambang.</h1>
+</div>
 
 <h3 align="center">A passionate Fullstack Website Developer, currently training at PijarCamp.</h3>
 
