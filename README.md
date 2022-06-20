@@ -32,7 +32,7 @@
 </a>
 
 <a href="https://medium.com/@apriyantodwiherlambang" target="_blank">
-  <img align="left" alt="Medium" width="32" height="32" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670068.png?token=exp=1655388828~hmac=35830c70fbec74321b22646cbb563283"/>
+  <img align="left" alt="Medium" width="32" height="32" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670068.png?token=exp=1655703175~hmac=60473fc7d0a37273f13c2b2ec7f0a6cc"/>
 </a>
 
 <a href="https://www.facebook.com/apriyantodwiherlambang" target="_blank" rel="noreferrer">
