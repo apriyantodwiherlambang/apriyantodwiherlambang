@@ -48,7 +48,7 @@
 </a>
 
 <a href="https://www.youtube.com/channel/UCUpDnmazf0oqTveeASIV9WA" target="_blank" rel="noreferrer">
-  <img align="left" alt="Youtube" width="32" height="32" src="https://cdn-icons.flaticon.com/png/512/4401/premium/4401475.png?token=exp=1655188223~hmac=7874c17ce0625ec49c314a93ad7837e3">
+  <img align="left" alt="Youtube" width="32" height="32" src="https://cdn-icons.flaticon.com/png/512/3669/premium/3669688.png?token=exp=1655804252~hmac=35e1a271455aaddc353c4f02bbac470f">
 </a>
 <br>
 <br>
