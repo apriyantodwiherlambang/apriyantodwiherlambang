@@ -32,7 +32,7 @@
 </a>
 
 <a href="https://medium.com/@apriyantodwiherlambang" target="_blank">
-  <img align="left" alt="Medium" width="32" height="32" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670068.png?token=exp=1655703175~hmac=60473fc7d0a37273f13c2b2ec7f0a6cc"/>
+  <img align="left" alt="Medium" width="32" height="32" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670068.png?token=exp=1658292164~hmac=e3ebf523d5f356c28529b1666878cdd7"/>
 </a>
 
 <a href="https://www.facebook.com/apriyantodwiherlambang" target="_blank" rel="noreferrer">
@@ -44,11 +44,11 @@
 </a>
 
 <a href="https://twitter.com/apriyantodwih" target="_blank" rel="noreferrer">
-  <img align="left" alt="Twitter" width="32" height="32" src="https://cdn-icons.flaticon.com/png/512/2168/premium/2168336.png?token=exp=1655388887~hmac=c86f8f02681e8d7ae4e0f4f81fcae25e">
+  <img align="left" alt="Twitter" width="32" height="32" src="https://cdn-icons.flaticon.com/png/512/2168/premium/2168336.png?token=exp=1658292271~hmac=ca0d98dbebeed337dfd65333aceddea7">
 </a>
 
 <a href="https://www.youtube.com/channel/UCUpDnmazf0oqTveeASIV9WA" target="_blank" rel="noreferrer">
-  <img align="left" alt="Youtube" width="32" height="32" src="https://cdn-icons.flaticon.com/png/512/3669/premium/3669688.png?token=exp=1655804252~hmac=35e1a271455aaddc353c4f02bbac470f">
+  <img align="left" alt="Youtube" width="32" height="32" src="https://cdn-icons.flaticon.com/png/512/4401/premium/4401475.png?token=exp=1658292314~hmac=9d5cbea0541cc6d57cd707e23b9e81d7">
 </a>
 <br>
 <br>
