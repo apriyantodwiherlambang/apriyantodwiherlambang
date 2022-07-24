@@ -24,7 +24,7 @@
 </a>
 
 <a href="https://stk.so/apridwihrlmbng" target="_blank" rel="noreferrer">
-  <img align="left" alt="StackOverFlow" width="45" height="32" src="https://cdn-icons.flaticon.com/png/512/2673/premium/2673774.png?token=exp=1658685858~hmac=281348e7c0e3d6fa3659ccbdde5e95c7">
+  <img align="left" alt="StackOverFlow" width="42" height="42" src="https://cdn-icons.flaticon.com/png/512/2673/premium/2673774.png?token=exp=1658685858~hmac=281348e7c0e3d6fa3659ccbdde5e95c7">
 </a>
 
 <a href="https://www.github.com/apriyantodwiherlambang" target="_blank" rel="noreferrer">
