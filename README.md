@@ -32,7 +32,7 @@
 </a>
 
 <a href="https://medium.com/@apriyantodwiherlambang" target="_blank">
-  <img align="left" alt="Medium" width="32" height="32" src="https://www.flaticon.com/premium-icon/medium_3670068"/>
+  <img align="left" alt="Medium" width="32" height="32" src="https://cdn-icons.flaticon.com/png/128/3670/premium/3670068.png?token=exp=1658682223~hmac=3714050a4c4217ef72a04304c917abf2"/>
 </a>
 
 <a href="https://www.facebook.com/apriyantodwiherlambang" target="_blank" rel="noreferrer">
