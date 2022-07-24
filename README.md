@@ -23,6 +23,11 @@
   <img align="left" alt="Replit" width="32" height="32" src="https://replit.com/public/images/sm.png">
 </a>
 
+<a href="https://stk.so/apridwihrlmbng" target="_blank" rel="noreferrer">
+  <img align="left" alt="StackOverFlow" width="32" height="32" src="https://cdn-icons.flaticon.com/png/128/2673/premium/2673774.png?token=exp=1658685858~hmac=48b8226ed038345f87d9ac61875e1bab
+">
+</a>
+
 <a href="https://www.github.com/apriyantodwiherlambang" target="_blank" rel="noreferrer">
   <img align="left" alt="GitHub" width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/733/733609.png">
 </a>
