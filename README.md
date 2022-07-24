@@ -32,7 +32,7 @@
 </a>
 
 <a href="https://medium.com/@apriyantodwiherlambang" target="_blank">
-  <img align="left" alt="Medium" width="32" height="32" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670068.png?token=exp=1658515248~hmac=238aa2a611dab563a87d8b5319e48e44"/>
+  <img align="left" alt="Medium" width="32" height="32" src="https://www.flaticon.com/premium-icon/medium_3670068"/>
 </a>
 
 <a href="https://www.facebook.com/apriyantodwiherlambang" target="_blank" rel="noreferrer">
@@ -48,7 +48,7 @@
 </a>
 
 <a href="https://www.youtube.com/channel/UCUpDnmazf0oqTveeASIV9WA" target="_blank" rel="noreferrer">
-  <img align="left" alt="Youtube" width="32" height="32" src="https://cdn-icons.flaticon.com/png/512/4401/premium/4401475.png?token=exp=1658515096~hmac=fc55a16d0fd76eb50a186d9794f6dc4e">
+  <img align="left" alt="Youtube" width="32" height="32" src="https://cdn-icons-png.flaticon.com/128/1384/1384012.png">
 </a>
 <br>
 <br>
