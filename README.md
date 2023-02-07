@@ -112,7 +112,7 @@
 </a>
 
 <a href="https://angular.io/" target="_blank" rel="noreferrer">
-  <img align="left" alt="Ionic" width="32" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png?20160527092314">
+  <img align="left" alt="Ionic" width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png?20160527092314">
 </a>
 
 <br>
