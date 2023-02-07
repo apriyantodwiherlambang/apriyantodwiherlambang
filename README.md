@@ -108,7 +108,7 @@
 </a>
 
 <a href="https://ionicframework.com/" target="_blank" rel="noreferrer">
-  <img align="left" alt="Ionic" width="62" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ionic_Logo.svg/1280px-Ionic_Logo.svg.png">
+  <img align="left" alt="Ionic" width="70" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ionic_Logo.svg/1280px-Ionic_Logo.svg.png">
 </a>
 
 <br>
