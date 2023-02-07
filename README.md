@@ -106,12 +106,17 @@
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank" rel="noreferrer">
   <img align="left" alt="C#" width="32" height="32" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">
 </a>
+
+<a href="https://ionicframework.com/" target="_blank" rel="noreferrer">
+  <img align="left" alt="Ionic" width="32" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ionic_Logo.svg/1280px-Ionic_Logo.svg.png">
+</a>
+
 <br>
 <br>
 
 <h3> Softwares :</h3>
 <a href="https://code.visualstudio.com" target="_blank">
-  <img align="left" alt="Visual Studio Code" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+  <img align="left" alt="Visual Studio Code" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
 </a>
 
 <a href="https://www.sublimetext.com" target="_blank">
