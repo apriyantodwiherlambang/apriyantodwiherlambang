@@ -112,7 +112,7 @@
 </a>
 
 <a href="https://angular.io/" target="_blank" rel="noreferrer">
-  <img align="left" alt="Ionic" width="35" height="35" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg">
+  <img align="left" alt="Ionic" width="33" height="33" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg">
 </a>
 
 <br>
