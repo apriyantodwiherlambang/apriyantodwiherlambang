@@ -107,6 +107,10 @@
   <img align="left" alt="C#" width="30" height="32" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">
 </a>
 
+<a href="https://angular.io/" target="_blank" rel="noreferrer">
+  <img align="left" alt="Ionic" width="32" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png">
+</a>
+
 <a href="https://ionicframework.com/" target="_blank" rel="noreferrer">
   <img align="left" alt="Ionic" width="80" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ionic_Logo.svg/1280px-Ionic_Logo.svg.png">
 </a>
