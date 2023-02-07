@@ -108,7 +108,7 @@
 </a>
 
 <a href="https://angular.io/" target="_blank" rel="noreferrer">
-  <img align="left" alt="Ionic" width="42" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png">
+  <img align="left" alt="Ionic" width="42" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png">
 </a>
 
 <a href="https://ionicframework.com/" target="_blank" rel="noreferrer">
