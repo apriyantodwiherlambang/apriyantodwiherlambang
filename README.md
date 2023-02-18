@@ -12,7 +12,7 @@
 <h3>About Me</h3>
 
 - 🌍  I'm based in **South Tangerang City - Indonesia.**
-- 🏫I'm a student at **Bina Sarana Informatika University of South Tangerang.**
+-🏫  I'm a student at **Bina Sarana Informatika University of South Tangerang.**
 - 🌱  Currently learning all about **Website Development.**
 - 💬  Ask me about **JavaScript, Express JS, React JS, Next JS and Ionic.**
 - 📫  How to reach me **dwiherlambangapri@gmail.com**
