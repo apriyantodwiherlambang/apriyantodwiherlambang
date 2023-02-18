@@ -120,7 +120,7 @@
 
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
   <img alt="NodeJS" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg">
-&nbsp;&nbsp;</a>
+&nbsp;</a>
 
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
   <img alt="ExpressJS" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg">
