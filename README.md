@@ -11,7 +11,7 @@
 
 <h3>About Me</h3>
 
-<li> 🌍  I'm based in **South Tangerang City - Indonesia.**
+<li> 🌍  <p>I'm based in **South Tangerang City - Indonesia.**</p>
 <li> 🏫  I'm a student at **Bina Sarana Informatika University of South Tangerang**
 <li> 🌱  Currently learning all about **Website Development.**
 <li> 💬  Ask me about **JavaScript, Express JS, React JS, Next JS and Ionic.**
