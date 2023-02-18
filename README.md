@@ -118,7 +118,7 @@
   <img align="left" alt="Ionic" width="85" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ionic_Logo.svg/1280px-Ionic_Logo.svg.png">
 </a>
 
-<div style="margin-left: 70px;">
+<div style="margin-left: 70px">
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
   <img align="left" alt="NodeJS" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"></a>
 </div>
