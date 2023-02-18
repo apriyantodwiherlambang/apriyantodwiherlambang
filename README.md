@@ -111,9 +111,8 @@
 </a>
 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img align="left" alt="NextJS" width="32" height="52" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/207px-Nextjs-logo.svg.png">
+  <img align="left" alt="NextJS" width="32" height="65" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/207px-Nextjs-logo.svg.png">
 </a>
-
 
 <a href="https://ionicframework.com/" target="_blank" rel="noreferrer">
   <img align="left" alt="Ionic" width="85" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ionic_Logo.svg/1280px-Ionic_Logo.svg.png">
