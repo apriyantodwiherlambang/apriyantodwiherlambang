@@ -67,7 +67,7 @@
 <br>
 <br>
 
-<h3> Languages : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Database :</h3>
+<h3> Languages : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Database :</h3>
 
 <a href="https://www.php.net/" target="_blank" rel="noreferrer">
   <img align="left" alt="PHP" width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png">
@@ -83,6 +83,15 @@
 
 <a href="https://angular.io/" target="_blank" rel="noreferrer">
   <img align="left" alt="Ionic" width="34" height="34" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img alt="MySQL" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg">
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <img alt="PostgreSQL" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg">
 </a>
 
 <br>
@@ -124,19 +133,6 @@
 
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
   <img alt="ExpressJS" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg">
-</a>
-
-<br>
-<br>
-
-<h3> Database :</h3>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img align="left" alt="MySQL" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg">
-</a>
-
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-  <img align="left" alt="PostgreSQL" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg">
 </a>
 
 <br>
