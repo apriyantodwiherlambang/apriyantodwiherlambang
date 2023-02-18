@@ -103,17 +103,17 @@ Tools :
 
 <a href="https://code.visualstudio.com" target="_blank">
   <img alt="Visual Studio Code" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
-  &nbsp;
+  &nbsp;&nbsp;
 </a>
 
 <a href="https://www.sublimetext.com" target="_blank">
   <img alt="Sublime Text" width="28px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
-  &nbsp;
+  &nbsp;&nbsp;
 </a>
 
 <a href="https://www.apachefriends.org" target="_blank">
   <img alt="XAMPP" width="28px" src="https://seeklogo.com/images/X/xampp-logo-1C1A9E3689-seeklogo.com.png">
-  &nbsp;
+  &nbsp;&nbsp;
 </a>
 
 <a href="https://www.postman.com" target="_blank">
