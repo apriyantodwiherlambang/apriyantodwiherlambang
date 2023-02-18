@@ -11,13 +11,15 @@
 
 <h3>About Me</h3>
 
-<li> 🌍  <p>I'm based in **South Tangerang City - Indonesia.**</p>
+<ul>
+<li> 🌍  I'm based in **South Tangerang City - Indonesia.**
 <li> 🏫  I'm a student at **Bina Sarana Informatika University of South Tangerang**
 <li> 🌱  Currently learning all about **Website Development.**
 <li> 💬  Ask me about **JavaScript, Express JS, React JS, Next JS and Ionic.**
 <li> 📫  How to reach me **dwiherlambangapri@gmail.com**
 <li> ⚡  Fun fact: **I'm ailurophile (Cat Lover)**
-
+</ul>
+  
 <br>
 
 <h3>Find me :</h3>
