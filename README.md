@@ -21,7 +21,7 @@
 <h3> Find me :</h3>
 
 <a href="https://stk.so/apridwihrlmbng" target="_blank" rel="noreferrer">
-  <img align="left" alt="StackOverFlow" width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/2111/2111690.png">
+  <img align="left" alt="StackOverFlow" width="32" height="32" src="https://www.iconsdb.com/icons/preview/black/stackoverflow-4-xxl.png">
 </a>
 
 <a href="https://www.hackerrank.com/apridwihrlmbng" target="_blank" rel="noreferrer">
