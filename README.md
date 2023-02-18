@@ -3,22 +3,24 @@
 </a>
 <h1 align="center">Hi 👋 I'm Apriyanto Dwi Herlambang.</h1>
 
-<h3 align="center">A passionate Fullstack Website Developer, currently training at PijarCamp.</h3>
+<h3 align="center">A passionate Fullstack Website Developer.</h3>
 
 <a href="https://www.github.com/apriyantodwiherlambang" target="_blank" rel="noreferrer">
   <img align="right" alt="GitHub" width="350" src="https://rajacepat.com/assets/frontend/img/androDev.gif">
 </a>
 
 <h3>About Me</h3>
-                                                                                                         
-- 🌍 I'm based in **South Tangerang - Indonesia.**
-- 🌱  I’m currently learning **Fullstack website developer.**
-- 💬  Ask me about **JavaScript, Express.JS, React.JS, Next.JS and Ionic.**
-- 📫  How to reach me **dwiherlambangapri@gmail.com**
-- ⚡  Fun fact: **I'm ailurophile (Cat Lover)**
+
+<li> 🌍  I'm based in **South Tangerang City - Indonesia.**
+<li> 🏫  I'm a student at **Bina Sarana Informatika University of South Tangerang**
+<li> 🌱  Currently learning all about **Website Development.**
+<li> 💬  Ask me about **JavaScript, Express JS, React JS, Next JS and Ionic.**
+<li> 📫  How to reach me **dwiherlambangapri@gmail.com**
+<li> ⚡  Fun fact: **I'm ailurophile (Cat Lover)**
+
 <br>
 
-<h3> Find me :</h3>
+<h3>Find me :</h3>
 
 <a href="https://www.hackerrank.com/apridwihrlmbng" target="_blank" rel="noreferrer">
   <img align="left" alt="Hackerrank" width="32" height="32" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/hackerrank_logo_icon_145206.png">
