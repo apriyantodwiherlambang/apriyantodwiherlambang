@@ -88,7 +88,7 @@
 <br>
 <br>
 
-<h3> Frontend :</h3>                                                                                                                  <h3> Backend :</h3>
+<h3> Frontend :                      &nbsp;&nbsp; Backend :</h3>
 
 <a href="https://www.w3schools.com/html" target="_blank">
   <img align="left" alt="HTML5" width="32px" height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png">
