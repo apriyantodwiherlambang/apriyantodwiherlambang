@@ -20,12 +20,12 @@
 
 <h3> Find me :</h3>
 
-<a href="https://stk.so/apridwihrlmbng" target="_blank" rel="noreferrer">
-  <img align="left" alt="StackOverFlow" width="32" height="32" src="https://www.iconsdb.com/icons/preview/black/stackoverflow-4-xxl.png">
-</a>
-
 <a href="https://www.hackerrank.com/apridwihrlmbng" target="_blank" rel="noreferrer">
   <img align="left" alt="Hackerrank" width="32" height="32" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/hackerrank_logo_icon_145206.png">
+</a>
+
+<a href="https://stk.so/apridwihrlmbng" target="_blank" rel="noreferrer">
+  <img align="left" alt="StackOverFlow" width="32" height="32" src="https://www.iconsdb.com/icons/preview/black/stackoverflow-4-xxl.png">
 </a>
 
 <a href="https://replit.com/@apriyantodwiherlambang" target="_blank" rel="noreferrer">
