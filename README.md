@@ -133,27 +133,33 @@ Back-end :
 </h3>
 
 <a href="https://www.w3schools.com/html" target="_blank">
-  <img align="left" alt="HTML5" width="32px" height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png">
+  <img alt="HTML5" width="32px" height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png">
+  &nbsp;&nbsp;
 </a>
 
 <a href="https://www.w3schools.com/css" target="_blank">
-  <img align="left" alt="CSS3" width="32px" height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png">
+  <img alt="CSS3" width="32px" height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png">
+  &nbsp;&nbsp;
 </a>
 
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-  <img align="left" alt="Bootstrap" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg">
+  <img alt="Bootstrap" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg">
+  &nbsp;&nbsp;
 </a>
 
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-  <img align="left" alt="Sass" width="37" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg">
+  <img alt="Sass" width="37" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg">
+  &nbsp;&nbsp;
 </a>
 
 <a href="https://reactjs.org" target="_blank" rel="noreferrer">
-  <img align="left" alt="ReactJS" width="32" height="32" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
+  <img alt="ReactJS" width="32" height="32" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
+  &nbsp;&nbsp;
 </a>
 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img align="left" alt="NextJS" width="52" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/207px-Nextjs-logo.svg.png">
+  <img alt="NextJS" width="52" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/207px-Nextjs-logo.svg.png">
+  &nbsp;&nbsp;
 </a>
 
 <a href="https://ionicframework.com/" target="_blank" rel="noreferrer">
@@ -163,7 +169,7 @@ Back-end :
 
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
   <img alt="NodeJS" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg">
-  &nbsp;
+  &nbsp;&nbsp;
 </a>
 
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
