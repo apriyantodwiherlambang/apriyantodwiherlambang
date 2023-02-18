@@ -80,7 +80,7 @@
 </a>
 
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-  <img align="left" alt="Sass" width="32" height="32" src="https://img2.pngdownload.id/20180711/luz/kisspng-sass-style-sheet-language-cascading-style-sheets-l-sass-5b462192244b94.2444958315313227701487.jpg">
+  <img align="left" alt="Sass" width="32" height="32" src="https://imgbin.com/png/MpHr9eLM/sass-cascading-style-sheets-preprocessor-less-postcss-png">
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
