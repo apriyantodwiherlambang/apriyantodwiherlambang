@@ -10,7 +10,7 @@
   <img align="right" alt="GitHub" width="342" src="https://rajacepat.com/assets/frontend/img/androDev.gif">
 </a>
 
-<h3>About Me</h3>
+<h3>About Me :</h3>
 
 - 🌍 I'm based in **South Tangerang City - Indonesia.**
 - 🏫  I'm a student at **Bina Sarana Informatika University of South Tangerang.**
