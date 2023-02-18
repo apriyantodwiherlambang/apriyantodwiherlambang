@@ -1,9 +1,10 @@
 <a href="https://www.github.com/apriyantodwiherlambang" target="_blank" rel="noreferrer">
   <img align="right" alt="GitHub" width="105" src="https://komarev.com/ghpvc/?username=apriyantodwiherlambang&style=flat-square&color=lightgrey">
 </a>
+
 <h1 align="center">Hi 👋 I'm Apriyanto Dwi Herlambang.</h1>
 
-<h3 align="center">A passionate Fullstack Website Developer.</h3>
+<h3 align="center">A passionate Full-Stack Website Developer from Indonesia.</h3>
 
 <a href="https://www.github.com/apriyantodwiherlambang" target="_blank" rel="noreferrer">
   <img align="right" alt="GitHub" width="342" src="https://rajacepat.com/assets/frontend/img/androDev.gif">
@@ -17,6 +18,7 @@
 - 💬  Ask me about **JavaScript, Express JS, React JS, Next JS and Ionic.**
 - 📫  How to reach me **dwiherlambangapri@gmail.com**
 - ⚡  Fun fact: **I'm ailurophile (Cat Lover)**
+
 <br>
 
 <h3>Find me :</h3>
@@ -172,6 +174,7 @@ Back-end :
 <br>
 
 <h3> My GitHub Stats :</h3>
+
 <table>
     <tr>
         <td align="center">
