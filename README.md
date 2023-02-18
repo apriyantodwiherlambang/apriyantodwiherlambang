@@ -119,7 +119,7 @@
 </a>
 
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-  <img align="center" alt="NodeJS" width="32" height="32" margin-left= "80px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg">
+  <img align="center" alt="NodeJS" width="32" height="32" margin-left= "80" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg">
 </a>
 
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
