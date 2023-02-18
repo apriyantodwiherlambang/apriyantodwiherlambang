@@ -1,12 +1,12 @@
 <a href="https://www.github.com/apriyantodwiherlambang" target="_blank" rel="noreferrer">
-  <img align="right" alt="GitHub" width="75" src="https://komarev.com/ghpvc/?username=apriyantodwiherlambang&style=flat-square&color=lightgrey">
+  <img align="right" alt="GitHub" width="105" src="https://komarev.com/ghpvc/?username=apriyantodwiherlambang&style=flat-square&color=lightgrey">
 </a>
 <h1 align="center">Hi 👋 I'm Apriyanto Dwi Herlambang.</h1>
 
 <h3 align="center">A passionate Fullstack Website Developer.</h3>
 
 <a href="https://www.github.com/apriyantodwiherlambang" target="_blank" rel="noreferrer">
-  <img align="right" alt="GitHub" width="350" src="https://rajacepat.com/assets/frontend/img/androDev.gif">
+  <img align="right" alt="GitHub" width="330" src="https://rajacepat.com/assets/frontend/img/androDev.gif">
 </a>
 
 <h3>About Me</h3>
