@@ -111,7 +111,7 @@
 </a>
 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img align="left" alt="NextJS" width="32" height="52" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/207px-Nextjs-logo.svg.png?20190307203525">
+  <img align="left" alt="NextJS" width="32" height="52" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/207px-Nextjs-logo.svg.png">
 </a>
 
 
