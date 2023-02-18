@@ -83,11 +83,12 @@
 
 <a href="https://angular.io/" target="_blank" rel="noreferrer">
   <img align="left" alt="Ionic" width="34" height="34" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img alt="MySQL" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg">
+  &nbsp;
 </a>
 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
