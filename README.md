@@ -68,7 +68,7 @@
 <br>
 
 <h3> 
-Languages : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Languages : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Database :
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Tools :
@@ -117,7 +117,7 @@ Tools :
 </a>
 
 <a href="https://www.postman.com" target="_blank">
-  <img align="left" alt="Postman" width="28" height="28" src="https://www.svgrepo.com/show/354202/postman-icon.svg">
+  <img alt="Postman" width="28" height="28" src="https://www.svgrepo.com/show/354202/postman-icon.svg">
 </a>
 
 <br>
