@@ -80,7 +80,7 @@
 </a>
 
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-  <img align="left" alt="Sass" width="32" height="32" src="https://imgbin.com/png/MpHr9eLM/sass-cascading-style-sheets-preprocessor-less-postcss-png">
+  <img align="left" alt="Sass" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg">
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
