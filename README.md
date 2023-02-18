@@ -63,52 +63,18 @@
 <a href="https://www.youtube.com/channel/UCUpDnmazf0oqTveeASIV9WA" target="_blank" rel="noreferrer">
   <img align="left" alt="Youtube" width="32" height="32" src="https://cdn-icons-png.flaticon.com/128/1384/1384012.png">
 </a>
+
 <br>
 <br>
 
-<h3> Languages and Tools :</h3>
-<a href="https://www.w3schools.com/html" target="_blank">
-  <img align="left" alt="HTML5" width="32px" height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png">
-</a>
-
-<a href="https://www.w3schools.com/css" target="_blank">
-  <img align="left" alt="CSS3" width="32px" height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png">
-</a>
+<h3> Languages :</h3>
 
 <a href="https://www.php.net/" target="_blank" rel="noreferrer">
   <img align="left" alt="PHP" width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png">
 </a>
 
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-  <img align="left" alt="Bootstrap" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg">
-</a>
-
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-  <img align="left" alt="Sass" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg">
-</a>
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img align="left" alt="Javascript" width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
-</a>
-
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-  <img align="left" alt="NodeJS" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg">
-</a>
-
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-  <img align="left" alt="ExpressJS" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg">
-</a>
-
-<a href="https://reactjs.org" target="_blank" rel="noreferrer">
-  <img align="left" alt="ReactJS" width="32" height="32" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
-</a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img align="left" alt="MySQL" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg">
-</a>
-
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-  <img align="left" alt="PostgreSQL" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg">
 </a>
 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank" rel="noreferrer">
@@ -119,6 +85,31 @@
   <img align="left" alt="Ionic" width="34" height="34" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg">
 </a>
 
+<br>
+<br>
+
+<h3> Frontend :</h3>
+
+<a href="https://www.w3schools.com/html" target="_blank">
+  <img align="left" alt="HTML5" width="32px" height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png">
+</a>
+
+<a href="https://www.w3schools.com/css" target="_blank">
+  <img align="left" alt="CSS3" width="32px" height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png">
+</a>
+
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+  <img align="left" alt="Bootstrap" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg">
+</a>
+
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+  <img align="left" alt="Sass" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg">
+</a>
+
+<a href="https://reactjs.org" target="_blank" rel="noreferrer">
+  <img align="left" alt="ReactJS" width="32" height="32" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
+</a>
+
 <a href="https://ionicframework.com/" target="_blank" rel="noreferrer">
   <img align="left" alt="Ionic" width="85" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ionic_Logo.svg/1280px-Ionic_Logo.svg.png">
 </a>
@@ -126,7 +117,34 @@
 <br>
 <br>
 
-<h3> Softwares :</h3>
+<h3> Backend :</h3>
+
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+  <img align="left" alt="NodeJS" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg">
+</a>
+
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img align="left" alt="ExpressJS" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg">
+</a>
+
+<br>
+<br>
+
+<h3> Database :</h3>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img align="left" alt="MySQL" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg">
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <img align="left" alt="PostgreSQL" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg">
+</a>
+
+<br>
+<br>
+
+<h3> Tools :</h3>
+
 <a href="https://code.visualstudio.com" target="_blank">
   <img align="left" alt="Visual Studio Code" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
 </a>
@@ -142,6 +160,7 @@
 <a href="https://www.postman.com" target="_blank">
   <img align="left" alt="Postman" width="28" height="28" src="https://www.svgrepo.com/show/354202/postman-icon.svg">
 </a>
+
 <br>
 <br>
 
