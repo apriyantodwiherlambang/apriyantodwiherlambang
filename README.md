@@ -33,7 +33,7 @@
 </a>
 
 <a href="https://gitlab.com/apriyantodwiherlambang" target="_blank" rel="noreferrer">
-  <img align="left" alt="GitLab" width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968900.png">
+  <img align="left" alt="GitLab" width="32" height="32" src="https://cdn.icon-icons.com/icons2/3781/PNG/512/gitlab_icon_231936.png">
 </a>
 
 <a href="https://www.linkedin.com/in/apriyantodwiherlambang" target="_blank">
