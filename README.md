@@ -67,7 +67,7 @@
 <br>
 <br>
 
-<h3> Languages :</h3>
+<h3> Languages : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Database :</h3>
 
 <a href="https://www.php.net/" target="_blank" rel="noreferrer">
   <img align="left" alt="PHP" width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png">
