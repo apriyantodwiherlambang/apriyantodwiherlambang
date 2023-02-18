@@ -36,16 +36,16 @@
   <img align="left" alt="StackOverFlow" width="32" height="32" src="https://www.iconsdb.com/icons/preview/black/stackoverflow-4-xxl.png">
 </a>
 
+<a href="https://medium.com/@apriyantodwiherlambang" target="_blank">
+  <img align="left" alt="Medium" width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/3670/3670068.png"/>
+</a>
+
 <a href="https://replit.com/@apriyantodwiherlambang" target="_blank" rel="noreferrer">
   <img align="left" alt="Replit" width="32" height="32" src="https://pic.onlinewebfonts.com/svg/img_337210.png">
 </a>
 
 <a href="https://www.linkedin.com/in/apriyantodwiherlambang" target="_blank">
   <img align="left" alt="LinkedIn" width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png"/>
-</a>
-
-<a href="https://medium.com/@apriyantodwiherlambang" target="_blank">
-  <img align="left" alt="Medium" width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/3670/3670068.png"/>
 </a>
 
 <a href="https://www.facebook.com/apriyantodwiherlambang" target="_blank" rel="noreferrer">
