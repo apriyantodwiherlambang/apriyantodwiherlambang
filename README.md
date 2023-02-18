@@ -70,7 +70,7 @@
 <h3> 
 Languages : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Database :
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Tools :
 </h3>
 
@@ -98,6 +98,26 @@ Tools :
 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
   <img alt="PostgreSQL" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</a>
+
+<a href="https://code.visualstudio.com" target="_blank">
+  <img alt="Visual Studio Code" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
+  &nbsp;
+</a>
+
+<a href="https://www.sublimetext.com" target="_blank">
+  <img alt="Sublime Text" width="28px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
+  &nbsp;
+</a>
+
+<a href="https://www.apachefriends.org" target="_blank">
+  <img alt="XAMPP" width="28px" src="https://seeklogo.com/images/X/xampp-logo-1C1A9E3689-seeklogo.com.png">
+  &nbsp;
+</a>
+
+<a href="https://www.postman.com" target="_blank">
+  <img align="left" alt="Postman" width="28" height="28" src="https://www.svgrepo.com/show/354202/postman-icon.svg">
 </a>
 
 <br>
@@ -139,27 +159,6 @@ Tools :
 
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
   <img alt="ExpressJS" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg">
-</a>
-
-<br>
-<br>
-
-<h3> Tools :</h3>
-
-<a href="https://code.visualstudio.com" target="_blank">
-  <img align="left" alt="Visual Studio Code" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
-</a>
-
-<a href="https://www.sublimetext.com" target="_blank">
-  <img align="left" alt="Sublime Text" width="28px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
-</a>
-
-<a href="https://www.apachefriends.org" target="_blank">
-  <img align="left" alt="XAMPP" width="28px" src="https://seeklogo.com/images/X/xampp-logo-1C1A9E3689-seeklogo.com.png">
-</a>
-
-<a href="https://www.postman.com" target="_blank">
-  <img align="left" alt="Postman" width="28" height="28" src="https://www.svgrepo.com/show/354202/postman-icon.svg">
 </a>
 
 <br>
