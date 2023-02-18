@@ -110,6 +110,11 @@
   <img align="left" alt="ReactJS" width="32" height="32" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
 </a>
 
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img align="left" alt="NextJS" width="32" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/207px-Nextjs-logo.svg.png?20190307203525">
+</a>
+
+
 <a href="https://ionicframework.com/" target="_blank" rel="noreferrer">
   <img align="left" alt="Ionic" width="85" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ionic_Logo.svg/1280px-Ionic_Logo.svg.png">
 </a>
