@@ -116,14 +116,11 @@
 
 <a href="https://ionicframework.com/" target="_blank" rel="noreferrer">
   <img align="left" alt="Ionic" width="85" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ionic_Logo.svg/1280px-Ionic_Logo.svg.png">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
+
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+  <img align="left" alt="NodeJS" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg">
 </a>
-
-<div style="margin-left:70px">
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-  <img align="left" alt="NodeJS" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"></a>
-</div>
-
-
 
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
   <img align="left" alt="ExpressJS" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg">
