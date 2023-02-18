@@ -20,8 +20,6 @@
 - 📫  How to reach me **dwiherlambangapri@gmail.com**
 - ⚡  Fun fact: **I'm ailurophile (Cat Lover)**
 
-<br>
-
 <h3>Find me :</h3>
 
 <a href="https://www.hackerrank.com/apridwihrlmbng" target="_blank" rel="noreferrer">
@@ -68,6 +66,7 @@
   <img align="left" alt="Youtube" width="32" height="32" src="https://cdn-icons-png.flaticon.com/128/1384/1384012.png">
 </a>
 
+<br>
 <br>
 
 <h3> 
