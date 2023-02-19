@@ -193,6 +193,10 @@ Others :
   &nbsp;&nbsp;
 </a>
 
+<a href="https://firebase.google.com/?hl=id" target="_blank" rel="noreferrer">
+  <img alt="Firebase" width="32" height="32" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
+</a>
+
 <br>
 <br>
 
