@@ -149,7 +149,7 @@ Others :
 </a>
 
 <a href="https://mui.com/" target="_blank" rel="noreferrer">
-  <img alt="MUI" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg">
+  <img alt="MUI" width="30" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg">
   &nbsp;&nbsp;
 </a>
 
