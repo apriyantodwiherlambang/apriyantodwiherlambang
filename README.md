@@ -148,6 +148,11 @@ Others :
   &nbsp;&nbsp;
 </a>
 
+<a href="https://mui.com/" target="_blank" rel="noreferrer">
+  <img alt="MUI" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/re…r/main/public/icons/skills/materialui-colored.svg">
+  &nbsp;&nbsp;
+</a>
+
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
   <img alt="Sass" width="37" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg">
   &nbsp;&nbsp;
