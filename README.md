@@ -194,7 +194,7 @@ Others :
 </a>
 
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
-  <img alt="Heroku" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg">
+  <img alt="Heroku" width="35" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg">
   &nbsp;&nbsp;
 </a>
 
