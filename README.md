@@ -183,6 +183,11 @@ Others :
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img alt="git" width="32" height="32" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+  &nbsp;&nbsp;
+</a>
+
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
   <img alt="Redux" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg">
   &nbsp;&nbsp;
