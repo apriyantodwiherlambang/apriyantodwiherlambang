@@ -223,9 +223,7 @@ Others :
     </tr>
     <tr>
         <td align="center">
-            <a href="https://github.com/apriyantodwiherlambang#gh-light-mode-only">
-               <img src="https://github-readme-streak-stats.herokuapp.com/?user=apriyantodwiherlambang&theme=default"/>
-            </a>
+          [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=apriyantodwiherlambang&theme=icegray)](https://git.io/streak-stats)
         </td>
     </tr>
 </table>
