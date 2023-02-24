@@ -205,35 +205,35 @@ Others :
 <br>
 <br>
 
-<h3> My GitHub Stats :</h3>
+<h3>My GitHub Stats :</h3>
 
 <table>
     <tr>
         <td align="center">
           <a href="https://github.com/apriyantodwiherlambang#gh-light-mode-only">
-            <img src="https://github-readme-stats.vercel.app/api?username=apriyantodwiherlambang&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a>
+            <img src="https://github-readme-stats.vercel.app/api?username=apriyantodwiherlambang&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/>
+          </a>
           <a href="https://github.com/apriyantodwiherlambang#gh-dark-mode-only">
-            <img src="https://github-readme-stats.vercel.app/api?username=apriyantodwiherlambang&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a>
+            <img src="https://github-readme-stats.vercel.app/api?username=apriyantodwiherlambang&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/>
+          </a>
       </td>
         <td rowspan="2" align="center">
           <a href="https://github.com/apriyantodwiherlambang#gh-light-mode-only">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apriyantodwiherlambang&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apriyantodwiherlambang&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/>
+          </a>
           <a href="https://github.com/apriyantodwiherlambang#gh-dark-mode-only">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apriyantodwiherlambang&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a>
-      </td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apriyantodwiherlambang&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/>
+          </a>
+       </td>
     </tr>
-    <tr>
+      <tr>
         <td align="center">
           <a href="https://github.com/apriyantodwiherlambang#gh-light-mode-only">
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=apriyantodwiherlambang&theme=default"/></a>
           <a href="https://github.com/apriyantodwiherlambang#gh-dark-mode-only">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=apriyantodwiherlambang&theme=tokyonight"/></a></td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=apriyantodwiherlambang&theme=tokyonight"/></a>
+        </td>
     </tr>
 </table>
-
-<!-- see https://ashutosh00710.github.io/github-readme-activity-graph/ -->
-<div align="center">
-<img width="843em" src="https://activity-graph.herokuapp.com/graph?username=apriyantodwiherlambang&point=1877f2&line=58a6ff&hide_title=true&bg_color=ffffff&color=24292e">
-</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=apriyantodwiherlambang&bg_color=ffffff&color=000000&line=000000&point=817e7e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
