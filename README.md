@@ -209,7 +209,7 @@ Others :
 
 <table>
     <tr>
-        <td align="center">
+        <td>
           <a href="https://github.com/apriyantodwiherlambang#gh-light-mode-only">
             <img src="https://github-readme-stats.vercel.app/api?username=apriyantodwiherlambang&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/>
           </a>
