@@ -54,7 +54,7 @@
   <img align="left" alt="Facebook" width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/1384/1384005.png">
 </a>
 
-<a href="https://www.instagram.com/apriyantodwiherlambang" target="_blank" rel="noreferrer">
+<a href="https://www.instagram.com/apridwiherlambang" target="_blank" rel="noreferrer">
   <img align="left" alt="Instagram" width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/3670/3670274.png">
 </a>
 
