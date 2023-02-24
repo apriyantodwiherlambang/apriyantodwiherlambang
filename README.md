@@ -214,10 +214,7 @@ Others :
             <img src="https://github-readme-stats.vercel.app/api?username=apriyantodwiherlambang&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/>
           </a>
       </td>
-
-          </a>
-          </a>
-       </td>
+        
     </tr>
       <tr>
         <td align="center">
