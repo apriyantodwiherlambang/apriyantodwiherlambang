@@ -228,6 +228,7 @@ Others :
                <img src="https://github-readme-streak-stats.herokuapp.com/?user=apriyantodwiherlambang&theme=default"/>
             </a>
        </td>
+       </tr>
     </tr>
 </table>
 
