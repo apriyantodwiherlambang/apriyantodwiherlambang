@@ -209,7 +209,7 @@ Others :
 
 <table>
     <tr>
-        <td>
+        <td align="center">
           <a href="https://github.com/apriyantodwiherlambang#gh-light-mode-only">
             <img src="https://github-readme-stats.vercel.app/api?username=apriyantodwiherlambang&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/>
           </a>
@@ -223,7 +223,9 @@ Others :
     </tr>
     <tr>
         <td align="center">
-            <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=apriyantodwiherlambang&theme=default"/></a>
+            <a href="https://git.io/streak-stats">
+              <img src="https://github-readme-streak-stats.herokuapp.com/?user=apriyantodwiherlambang&theme=default"/>
+            </a>
         </td>
     </tr>
 </table>
