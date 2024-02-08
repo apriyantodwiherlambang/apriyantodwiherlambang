@@ -12,12 +12,8 @@
 
 <h3>About Me :</h3>
 
-- 🌍 I'm based in **South Tangerang City - Indonesia.**
-- 🏫  I'm a student at **Bina Sarana Informatika University.**
-- 👨‍💻  I'm currently a freelance **Website Developer.**
-- 🌱  Currently learning all about **Website Development.**
-- 📫  How to reach me **dwiherlambangapri@gmail.com**
-- ⚡  Fun fact: **I'm ailurophile (Cat Lover)**
+- 🌍 I am located in **South Tangerang City, Indonesia.**
+- 🏫  I am an undergraduate student at **Bina Sarana Informatics University.**
 
 <h3>Find me :</h3>
 
